@@ -1,5 +1,3 @@
-
-
 #[Project 1: When Was the Golden Era of Video Games?]( https://drew-alt.github.io/Drews-_portfolio/)
 
 This is a project I did through data camp to advance my SQL skills,by thinking in the overall context of gaming.
