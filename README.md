@@ -8,5 +8,5 @@ This is a project I did through data camp to advance my SQL skills, by thinking 
 
 *Queried numeric, int, and float data
 
-*You can read about my whole thought process and execution on [Google Docs](https://docs.google.com/document/d/1KbAMoJaMzUIHHyepHIr3-Kikqs7wGRnzNGgbynOniWg/edit?usp=sharing)
+*You can read about my Analytical process and execution on [Google Docs](https://docs.google.com/document/d/1KbAMoJaMzUIHHyepHIr3-Kikqs7wGRnzNGgbynOniWg/edit?usp=sharing)
 
